@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.datasource.driver.class",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driver.class'"
+  },
+  {
+    "name": "oracle.datasource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.datasource.url'"
+  },
+  {
+    "name": "oracle.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.datasource.username'"
+  },
+  {
+    "name": "oracle.datasource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'oracle.datasource.password'"
+  }
+]}
